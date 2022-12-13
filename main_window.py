@@ -30,7 +30,7 @@ class MainWindow(QMainWindow):
         toolbar.setIconSize(QSize(16,16))
         self.addToolBar(toolbar)
        
-        action1=QAction(QIcon("/Users/akshatsaxena/Desktop/Developing-GUI-using-Qt-and-Pyslide6/images/1.png"),"open",self)
+        action1=QAction(QIcon("images/1.png"),"open",self)
         action1.triggered.connect(self.action1_triggered)
         action1.setStatusTip("This is action 1")
         toolbar.addAction(action1)
