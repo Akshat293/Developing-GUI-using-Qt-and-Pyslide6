@@ -7,6 +7,7 @@ from qline import Qline
 from qtextedit import Qtext
 from qlabel import Qlab
 from size_policy import Widget
+from grid_layout import Gridlay
 import sys
 # sys module provides access to some variables used or
 #  maintained by the interpreter and to functions that
@@ -23,7 +24,8 @@ app=QApplication(sys.argv)
 #window=Qline()
 #window=Qtext()
 #window=Qlab()
-window=Widget()
+#window=Widget()
+window=Gridlay()
 # QWidget is the base class of all user 
 # interface objects in PyQt5. It provides default functionality and
 #  a constructor for all user interface objects.
