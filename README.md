@@ -9,7 +9,10 @@ Uncomment the window and run --> python3 main.py in the terminal
 
 # Screenshots:
 <p float="left">
-<img width="45%" src="https://github.com/tom635/Developing-GUI-using-Qt-and-Pyslide6/blob/main/Screenshot%202022-12-22%20at%208.43.06%20AM.png">,
- <img width="45%" src="https://github.com/tom635/Developing-GUI-using-Qt-and-Pyslide6/blob/main/Screenshot%202022-12-22%20at%208.45.12%20AM.png">
+<img width="80%" src="https://github.com/tom635/Developing-GUI-using-Qt-and-Pyslide6/blob/main/Screenshot%202022-12-22%20at%208.43.06%20AM.png">
+
+ Integerating a Real time HTML viewer in a note pad
+
+ <img width="80%" src="https://github.com/tom635/Developing-GUI-using-Qt-and-Pyslide6/blob/main/Screenshot%202022-12-22%20at%208.45.12%20AM.png">
 </p>
 
