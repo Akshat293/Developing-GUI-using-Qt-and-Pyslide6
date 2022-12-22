@@ -3,7 +3,7 @@ from PySide6.QtWidgets import QWidget,QPushButton,QApplication,QTextEdit,QHBoxLa
 class Qtext(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("My App")
+        self.setWindowTitle("HTML Editor")
         self.text_edit=QTextEdit()
 
 
